@@ -29,5 +29,5 @@ The project uses the **Quality of Life 2024 dataset**, with each of the 60 citie
 
 ## 💻 Code Structure
 
-The analysis was performed using **MATLAB**. [Code](codeQL2024.m)
-The MATLAB code section in the project paper shows the detailed steps and function calls used for the analysis.
+The analysis was performed using **MATLAB**. 
+The MATLAB [Code](codeQL2024.m) section in the project paper shows the detailed steps and function calls used for the analysis.
