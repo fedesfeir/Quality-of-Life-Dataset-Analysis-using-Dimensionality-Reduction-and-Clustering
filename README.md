@@ -13,7 +13,7 @@ The analysis was performed on a random subset of **60 cities** selected from the
 
 ## 📊 Dataset
 
-The project uses the **Quality of Life 2024 dataset**, with each of the 60 cities characterized by the following nine indices:
+The project uses the [**Quality of Life 2024 dataset**](QLCit24.m), with each of the 60 cities characterized by the following nine indices:
 
 * **Quality of Life Index (QLI)**
 * **Purchasing Power Index (PPI)**
